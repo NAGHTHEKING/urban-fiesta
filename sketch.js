@@ -53,7 +53,7 @@ text("score:"+scor,500,50);
     {
       trex.velocityY=-12;
     }
- if (ground.x<-10)
+ if (ground.x<-100)
    {
      ground.x=width/2-120;
    }
